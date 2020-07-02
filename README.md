@@ -1,2 +1,3 @@
-# bing-wallpaper
-🌎 Daily Bing Wallpaper
+# Bing Wallpaper
+
+🌻 Daily Backup
